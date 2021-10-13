@@ -1,0 +1,5 @@
+policies:
+  - name: my-first-policy
+    resource: aws.s3
+    filters:
+      - *my-broken-alias
