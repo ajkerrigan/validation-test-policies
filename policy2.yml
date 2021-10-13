@@ -1,5 +1,3 @@
 policies:
   - name: my-second-policy
     resource: aws.s3
-    filters:
-      - type: metric
