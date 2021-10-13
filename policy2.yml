@@ -1,3 +1,5 @@
 policies:
-  - name: my-second-policy
+  - name: aj-second-policy
+    metadata:
+      category: [testing/validation]
     resource: aws.s3

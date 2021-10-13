@@ -1,3 +1,5 @@
 policies:
-  - name: my-first-policy
+  - name: aj-first-policy
+    metadata:
+      category: [testing/validation]
     resource: aws.s3
